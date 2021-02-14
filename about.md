@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I studied economics and am studying data analytics. I love myself some good governance, be it within a country or within a company.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+This is my personal blog with my personal thoughts and does not represent the views of any organisations that I am or have been involved with.

@@ -4,5 +4,6 @@
         "Vinh’s",
         "behaviour",
         "s"
-    ]
+    ],
+    "jupyter.jupyterServerType": "local"
 }

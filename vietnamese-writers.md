@@ -10,3 +10,4 @@ Vietnamese literature is a minefield for folks interested in it. It's full of pr
 - Phùng Quán: Very Straussian, so don't be fooled by his seemingly pro-Communist tone
 - Trần Đăng Khoa: Straussian, and clearly a clever guy who has been trying to escape people's perception of him as a child prodigy for decades
 - Viet Thanh Nguyen: Idealistic second-generation American immigrant, nice outsider's view on things
+- Hồ Xuân Hương: No one knows if she exists, but she's one of the funniest and cheekiest Vietnamese poet who has ever lived

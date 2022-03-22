@@ -1,1 +1,1 @@
-A small personal blog.
+My personal website.

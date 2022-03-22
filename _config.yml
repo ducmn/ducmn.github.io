@@ -1,9 +1,7 @@
-#
-# This file contains configuration flags to customize your site
-#
+# This file contains configuration flags to customize the site
 
-# Name of your site (displayed in the header)
-name: Duc's Personal Website
+# Name of my site (displayed in the header)
+name: Duc's Website
 
 # Short bio or description (displayed in the header)
 description: 

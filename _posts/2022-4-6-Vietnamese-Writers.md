@@ -9,5 +9,5 @@ Vietnamese literature is a minefield for any beginners as it's choked full of pr
 - Bảo Ninh: His one-hit-wonder remains a touchstone in Vietnam War literature
 - Phùng Quán: Very Straussian, so don't be fooled by his seemingly pro-Communist tone
 - Trần Đăng Khoa: Clearly a clever guy who has been trying to escape people's perception of him as a child prodigy for decades
-- Viet Thanh Nguyen: I this idealistic-second-generation-American-immigrant out of touch with what's happening in Vietnam, though he offers a nice outsider's view on things
+- Viet Thanh Nguyen: He's an idealistic-second-generation-American-immigrant. Man doesn't know much about what's happening in Vietnam, though he offers a nice outsider's view on things, e.g., the life of an immigrant
 - Hồ Xuân Hương: No one knows if she exists, but she's one of the funniest and cheekiest Vietnamese poet who has ever lived

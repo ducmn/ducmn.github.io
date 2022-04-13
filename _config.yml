@@ -1,33 +1,17 @@
-# This file contains configuration flags to customize the site
-
-# Name of my site (displayed in the header)
 name: Duc's Website
-
-# Short bio or description (displayed in the header)
 description: My personal website
 
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
-
-#
-# Flags below are optional
-#
+# URL of avatar
+avatar: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/1024px-Flag_of_Vietnam.svg.png
 
 # Includes an icon in the footer for each username you enter
 footer-links:
   email: nguyenmanhduc1309@gmail.com
   github: ducmn
 
-# Enter your Disqus shortname (not your username) to enable commenting on posts
-# You can find your shortname on the Settings page of your Disqus account
-disqus:
-
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
-
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://ducmn.github.io/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)

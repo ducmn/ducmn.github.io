@@ -14,9 +14,9 @@ html {
 }
 
 body {
-	background: $white;
+	background: $black;
   font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  color: $white;
 }
 
 .container {
@@ -28,7 +28,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $darkerGray;
+  color: $white;
   font-weight: bold;
 
   line-height: 1.7;
@@ -49,15 +49,6 @@ h1 {
 
 h2 {
   font-size: 24px;
-}
-
-h3 {
-  font-size: 20px;
-}
-
-h4 {
-  font-size: 18px;
-  color: $gray;
 }
 
 p {
@@ -104,16 +95,6 @@ strong, b {
 
 img {
   max-width: 100%;
-}
-
-// Fixes images in popup boxes from Google Translate
-.gmnoprint img {
-  max-width: none;
-}
-
-.date {
-  font-style: italic;
-  color: $gray;
 }
 
 // Specify the color of the selection

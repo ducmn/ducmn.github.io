@@ -19,5 +19,6 @@
         "Vinh’s",
         "Xuân"
     ],
-    "jupyter.jupyterServerType": "local"
+    "jupyter.jupyterServerType": "local",
+    "scss.validate": false
 }

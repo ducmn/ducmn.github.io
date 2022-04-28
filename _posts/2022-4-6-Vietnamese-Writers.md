@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Vietnamese Writers Recommendations
+title: Vietnamese Writer Recommendations
 permalink: /vietnamese-writers/
 ---
 

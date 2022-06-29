@@ -10,4 +10,4 @@ Vietnamese literature is a minefield for any beginners as it's choked full of pr
 - Phùng Quán: Very Straussian, so don't be fooled by his seemingly pro-Communist tone
 - Trần Đăng Khoa: A clever guy who has been trying to escape people's perception of him as a child prodigy for decades
 - Viet Thanh Nguyen: An idealistic-second-generation-American-immigrant. Man doesn't know much about what's happening in Vietnam, though he offers a nice (albeit ultra liberal) outsider's view on things
-- Hồ Xuân Hương: No one knows if she actually exists, but she's really funny
+- Hồ Xuân Hương: No one knows who she really is, but she's really funny (like Elena Ferrante)

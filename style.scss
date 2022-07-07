@@ -13,9 +13,9 @@ html {
 }
 
 body {
-	background: #111111;
+	background: #222222;
   font: 18px/1.4 $helvetica;
-  color: $white;
+  color: #989898;
 }
 
 .container {
@@ -27,7 +27,7 @@ body {
 
 h1 {
   font-family: $helveticaNeue;
-  color: $white;
+  color: #f2f2f2;
   font-weight: bold;
 
   line-height: 1.7;
@@ -51,11 +51,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: #f2f2f2;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: #d66423;
   }
 }
 

@@ -6,6 +6,8 @@ footer-links:
   email: nguyenmanhduc1309@gmail.com
   github: ducmn
 
+paginate: 15
+
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
 url: https://ducmn.github.io/

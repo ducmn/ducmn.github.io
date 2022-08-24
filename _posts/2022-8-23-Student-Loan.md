@@ -24,4 +24,10 @@ Block D are for foreign language nerds.
 
 One can see that the Block A students are the most promising, so this is where I'll start.
 
-Potential pitfall: Since this is deemed a loan, not a grant, the funders who give me the money could ask for the money back. Now what? I think something like a terms and conditions should be made clear that the time horizon is ridiculously long, and it could take something like a decade for a loan to be fully repaid.
+Potential pitfalls:
+1. Since this is deemed a loan, not a grant, the funders who give me the money could ask for the money back. Now what? I think something like a terms and conditions should be made clear that the time horizon is ridiculously long, and it could take something like a decade for a loan to be fully repaid.
+2. How do you get people to trust you? You're just a random guy, not backed by any institution.
+3. As 'The Brothers Karamazov' demonstrates, the way you give out money is also important. These are highly talented folks with a lot of pride. What's the proper way to give to them?
+4. Should it be a grant, or should it be a loan? If a loan, then how can one overcome the Vietnamese's aversion to debt? Any how long should the horizon be? How do you deal with the "depositors" who ask for their money back?
+
+It's tragic. More resources are poured into a Down syndrome kid in the UK than the 10 smartest high schoolers in Vietnam combined.

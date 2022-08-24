@@ -23,3 +23,5 @@ Block C: Literature, History, Geography. These are for the humanities (as if the
 Block D are for foreign language nerds.
 
 One can see that the Block A students are the most promising, so this is where I'll start.
+
+Potential pitfall: Since this is deemed a loan, not a grant, the funders who give me the money could ask for the money back. Now what? I think something like a terms and conditions should be made clear that the time horizon is ridiculously long, and it could take something like a decade for a loan to be fully repaid.

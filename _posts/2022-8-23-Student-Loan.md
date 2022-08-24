@@ -15,16 +15,19 @@ This is admirable behaviour, but still it troubles me a bit. If the loan is dist
 It's crazy that the brightest minds of Vietnam are denied a chance at changing their lives. Many poor students, hit by the financial impact of COVID, are finding it [difficult to attend university](https://tuoitre.vn/tuyen-sinh-dai-hoc-2022-nom-nop-noi-lo-vo-tran-20220823221749034.htm). This is a huge human capital crisis: 325,000 students took the university entrance exam, but DIDN'T APPLIED TO ANY UNIVERSITY! Many had grades too low so they gave up, but another popular explanation is that there are many poor students who find the price tag of uni too high, and they might be able to get some mediocre jobs if they flash their good exam results to the right people, and so they drop out of uni. I want to help them, but I also just want my effort to count. For a start, I plan to lend to the smartest, poor STEM students.
 
 To get into university, students must participate in an exam "block":
-Block A: Mathematics, Physics, Chemistry
-Block A1: Mathematics, Physics, English language
-The best in Block As are the god-tier geniuses, the best minds of their generation.
-Block B: Mathematics, Chemistry, Biology. These are for the doctors.
-Block C: Literature, History, Geography. These are for the humanities (as if the suffocating culture of VN can produce any significant humanistic achievements).
-Block D are for foreign language nerds.
+
+- Block A: Mathematics, Physics, Chemistry; Block A1: Mathematics, Physics, English language; the best in Block As are the god-tier geniuses, the best minds of their generation.
+
+- Block B: Mathematics, Chemistry, Biology. These are for the doctors.
+
+- Block C: Literature, History, Geography. These are for the humanities (as if the suffocating culture of VN can produce any significant humanistic achievements).
+
+- Block D are for foreign language nerds.
 
 One can see that the Block A students are the most promising, so this is where I'll start.
 
 Potential pitfalls:
+
 1. Since this is deemed a loan, not a grant, the funders who give me the money could ask for the money back. Now what? I think something like a terms and conditions should be made clear that the time horizon is ridiculously long, and it could take something like a decade for a loan to be fully repaid.
 2. How do you get people to trust you? You're just a random guy, not backed by any institution.
 3. As 'The Brothers Karamazov' demonstrates, the way you give out money is also important. These are highly talented folks with a lot of pride. What's the proper way to give to them?

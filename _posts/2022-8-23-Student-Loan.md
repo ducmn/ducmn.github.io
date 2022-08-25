@@ -34,3 +34,7 @@ Potential pitfalls:
 4. Should it be a grant, or should it be a loan? If a loan, then how can one overcome the Vietnamese's aversion to debt? Any how long should the horizon be? How do you deal with the "depositors" who ask for their money back?
 
 It's tragic. More resources are poured into a Down syndrome kid in the UK than the 10 smartest high schoolers in Vietnam combined.
+
+Loan is a gazillion time harder than a grant. It's need an IT system behind it.
+
+[Here's a list of the smartest kids in VN](https://docs.google.com/spreadsheets/d/1QVa5tYY8tIpvsdOnEdU1N0tebwSY33SBirEdT5e7zAs/edit#gid=0), charting in science in 2022.

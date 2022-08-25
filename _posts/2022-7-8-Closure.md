@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Bellerbys
-permalink: /bellerbys/
 ---
 
 I heard that my old sixth-form has been closed due to lack of international students from a range factors including the Chinese lockdown, Brexit, and COVID.

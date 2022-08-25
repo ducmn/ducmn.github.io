@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Vietnamese Writer Recommendations
-permalink: /vietnamese-writers/
 ---
 
 Vietnamese literature is a minefield for any beginners as it's choked full of propaganda for obvious historical reasons. There is also no trustworthy book-recommendation system in Vietnam, unlike the overly muscular Book Review Ecosystem in the West. To save myself (and others) time sifting the wheat from the chaff, below are authors I find to be interesting and less propagandistic (if their work sounds propagandistic, read it through a Straussian lens):

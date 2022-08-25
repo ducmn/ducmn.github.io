@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Student Loan in Vietnam
-permalink: /vn-student-loan/
 ---
 
 It's wild that Vietnam doesn't have a functioning student loan system. For a country that prizes credentials so much, it's strange that the government give out such meager amount of loan to students. The maximum amount that you can borrow from the government, after loads of paperwork to prove that you're poor, is 4 million VND/month. The tuition fee is around 20 million VND/year. The Vietnamese government ran out of money after COVID, so they are mulling "university financial independence", which is a polite way of saying "fuck you universities, take care of your own expenses".

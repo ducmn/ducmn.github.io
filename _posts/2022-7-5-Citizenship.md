@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Citizenship
-permalink: /citizenship/
 ---
 
 I recently complained to an acquaintance about the fact that I have Vietnamese citizenship. I expected sympathy, but this idiot was completely oblivious about the struggle of third world people. In his mind, he imagine the Far East as some kind of idyllic place where all is well. Below are my complaints, his counter-arguments, and my responses to them:

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Voting with your feet
-permalink: /feet-voting/
 ---
 
 So the usual claim is that "if you don't like your country, you should leave". As if that's so easy to do.

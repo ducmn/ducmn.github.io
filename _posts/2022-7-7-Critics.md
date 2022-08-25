@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Literary critics
-permalink: /critics/
 ---
 
 A strange thing in Vietnam (and I presume in all Communist countries) is that there's a lot of prestige attached to being a literary critic, even more than being an actual writer. Even children are taught to be more of a critic than to be a writer. All Vietnamese literature exams are to criticise and evaluate the works of dead writers.

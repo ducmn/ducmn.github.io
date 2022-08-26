@@ -23,7 +23,9 @@ To get into university, students must participate in an exam "block":
 
 - Block D are for foreign language nerds.
 
-One can see that the Block A students are the most promising, so this is where I'll start.
+One can see that the Block A students are the most promising, so this is where I'll start. Vietnamese STEM talent is very real; so far either they stay in Vietnam and produce scams like Axie Infinity, or they somehow go abroad and work in AI for Google. If they stay in Vietnam, their salary is much higher than their peers.
+
+![](images/d91d91b8-a29e-4923-a1cf-d562bd107ef2_1361x767.png)
 
 Potential pitfalls:
 
@@ -31,8 +33,6 @@ Potential pitfalls:
 2. How do you get people to trust you? You're just a random guy, not backed by any institution.
 3. As 'The Brothers Karamazov' demonstrates, the way you give out money is also important. These are highly talented folks with a lot of pride. What's the proper way to give to them?
 4. Should it be a grant, or should it be a loan? If a loan, then how can one overcome the Vietnamese's aversion to debt? Any how long should the horizon be? How do you deal with the "depositors" who ask for their money back?
-
-It's tragic. More resources are poured into a Down syndrome kid in the UK than the 10 smartest high schoolers in Vietnam combined.
 
 Loan is a gazillion time harder than a grant. It's need an IT system behind it.
 

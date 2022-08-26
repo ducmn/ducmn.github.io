@@ -25,7 +25,7 @@ To get into university, students must participate in an exam "block":
 
 One can see that the Block A students are the most promising, so this is where I'll start. Vietnamese STEM talent is very real; so far either they stay in Vietnam and produce scams like Axie Infinity, or they somehow go abroad and work in AI for Google. If they stay in Vietnam, their salary is much higher than their peers.
 
-![](images/d91d91b8-a29e-4923-a1cf-d562bd107ef2_1361x767.png)
+![](../images/d91d91b8-a29e-4923-a1cf-d562bd107ef2_1361x767.png)
 
 Potential pitfalls:
 

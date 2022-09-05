@@ -16,6 +16,8 @@ body {
 	background: #222222;
   font: 18px/1.4 $helvetica;
   color: #989898;
+  display: flex;
+  flex-direction: column;
 }
 
 .container {
@@ -227,7 +229,7 @@ nav {
 }
 
 .wrapper-footer {
-  margin-top: 50px;
+  margin-top: auto;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: $black;

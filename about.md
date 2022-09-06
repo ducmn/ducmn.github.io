@@ -11,4 +11,4 @@ This is my personal blog with my personal thoughts and does not represent the vi
 My desperate love of credentialism:
 
 - [GitHub](https://github.com/ducmn)
-- [Microsoft Learn](https://docs.microsoft.com/en-gb/users/ducnguyen-3953/)
+- [Microsoft Learn](https://docs.microsoft.com/en-gb/users/ducmn/)

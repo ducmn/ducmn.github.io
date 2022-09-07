@@ -3,7 +3,7 @@ layout: page
 title: Vietnamese Childhood
 ---
 
-If you grow up in Vietnam, chances are that your parents will care a lot about your education and what you obtain at school. Not just any subject, no. Maths and English. Maths and English are the way out, out of this godforsaken country. I was good at other things too, but poets weren’t high on any country's list of occupational shortages.
+If you grow up in Vietnam, chances are that your parents will care a lot about your education and what you obtain at school. Not just any subject, no. Maths and English. Maths and English are the way out, out of this godforsaken country. I'm good at other things too, but poets aren't high on any country's list of occupational shortages.
 
 The methods Vietnamese parents use to motivate their kids are questionable. I remember how my Mom would be on the phone with a family friend whose son is in my class. This guy was my rival, and he would always snitch to his mom whenever I had bad grades, and that was how my mom usually found out. That little snitch was the bane of my existence; he's at Cornell now.
 

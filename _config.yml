@@ -1,5 +1,5 @@
 name: A Vietnamese's View
-description: Documenting my daily thoughts
+description: Documenting my random thoughts
 
 # Includes an icon in the footer for each username you enter
 footer-links:
@@ -8,8 +8,6 @@ footer-links:
 
 paginate: 15
 
-# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
-# Used for Sitemap.xml and your RSS feed
 url: https://ducmn.github.io/
 
 permalink: /:title/

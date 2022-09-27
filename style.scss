@@ -222,6 +222,9 @@ nav {
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: $black;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
 }
 
 footer {

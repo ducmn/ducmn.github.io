@@ -1,1 +1,1 @@
-My personal English blog.
+A small blog of mine.

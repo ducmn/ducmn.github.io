@@ -1,0 +1,52 @@
+{
+    "projectId": "snowplow-365509"
+  
+    "loader": {
+      "input": {
+        "subscription": "enriched-good-sub"
+      }
+  
+      "output": {
+        "good": {
+          "datasetId": "snowplow_dataset"
+          "tableId": "pageviews"
+        }
+  
+        "bad": {
+          "topic": "bad"
+        }
+  
+        "types": {
+          "topic": "bq-types"
+        }
+  
+        "failedInserts": {
+          "topic": "bq-failed-inserts"
+        }
+      }
+    }
+  
+    "mutator": {
+      "input": {
+        "subscription": "bq-types-sub"
+      }
+  
+      "output": {
+        "good": ${loader.output.good}
+      }
+    }
+  
+    "repeater": {
+      "input": {
+        "subscription": "bq-failed-inserts-sub"
+      }
+  
+      "output": {
+        "good": ${loader.output.good}
+  
+        "deadLetters": {
+          "bucket": "gs://snowplow-store-temp/temp-files"
+        }
+      }
+    }
+  }

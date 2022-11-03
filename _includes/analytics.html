@@ -4,8 +4,11 @@
     snowplow('newTracker', 'sp', 'https://tracker.ducmn.com', { 
         appId: 'my-app-id',
         discoverRootDomain: true,
-        cookieSameSite: 'Lax'
-    });
+        cookieSameSite: 'Lax',
+        contexts: {
+          webPage: false,
+    }
+  });
 
     snowplow('enableActivityTracking', {
       minimumVisitLength: 30,

@@ -1,15 +1,15 @@
 {
   "input": {
-    "subscription": "projects/test-project/subscriptions/good-sub"
+    "subscription": "projects/snowplow-365509/subscriptions/good-sub"
   }
 
   "output": {
     "good": {
-      "topic": "projects/test-project/topics/enriched-good"
+      "topic": "projects/snowplow-365509/topics/enriched-good"
     }
 
     "bad": {
-      "topic": "projects/test-project/topics/bad"
+      "topic": "projects/snowplow-365509/topics/bad"
     }
   }
 }

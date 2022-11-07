@@ -1,1 +1,1 @@
-A small blog of mine.
+Small blog of mine.

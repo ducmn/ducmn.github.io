@@ -9,7 +9,7 @@
       "output": {
         "good": {
           "datasetId": "snowplow_dataset"
-          "tableId": "pageviews"
+          "tableId": "events"
         }
   
         "bad": {

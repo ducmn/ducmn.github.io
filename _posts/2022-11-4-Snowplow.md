@@ -18,3 +18,5 @@ Go ahead and switch on:
 # Install Google Cloud CLI
 [It](https://cloud.google.com/sdk/docs/install) makes interacting with GCP easier.
 
+# Service account
+If you've used Compute Engine before, your should already a powerful service account set up for you. Otherwise, you can quickly set one up for yourself.

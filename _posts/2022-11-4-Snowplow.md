@@ -14,6 +14,9 @@ You should have your GCP account with billing enabled.
 - Register in [Search Console](https://search.google.com/search-console/welcome) your prefered domain name that host the JS file; once done, you can delete the record that was used to verify
 - Follow [this guide](https://docs.snowplow.io/docs/collecting-data/collecting-from-own-applications/javascript-trackers/javascript-tracker/self-hosting-the-javascript-tracker/self-hosting-the-javascript-tracker-on-google-cloud/)
 
+# Tag up your site
+- Do your thing in GTM
+
 # Enable the required services
 Go ahead and switch on:
 - Compute Engine API

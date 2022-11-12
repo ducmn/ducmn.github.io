@@ -29,7 +29,7 @@ body {
   width: 100%;
 }
 
-h1 {
+h1, h2 {
   font-family: $helveticaNeue;
   color: #f2f2f2;
   font-weight: bold;
@@ -43,17 +43,6 @@ h1 {
   }
 }
 
-h1 {
-  font-size: 30px;
-  a {
-    color: inherit;
-  }
-}
-
-p {
-  margin: 15px 0;
-}
-
 a {
   color: #f2f2f2;
   text-decoration: none;
@@ -61,6 +50,18 @@ a {
   &:hover, &:active {
     color: #d66423;
   }
+}
+
+h1 {
+  font-size: 30px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+p {
+  margin: 15px 0;
 }
 
 ul, ol {

@@ -57,22 +57,26 @@ Store them all in cloud storage, for you'll need them later.
 - Expand "Networking"
 - In "Network tags", add `collector`
 - Click "Create"
+
 ## Add firewall rule
 - In VPC network section, go to "Firewall"
 - In "Target tags", type `collector`
 - In "Source IPv4 ranges", type `0.0.0.0/0`
 - Tick TCP, then type `8080`
 - Click "Create"
+
 ## Create a health check in Compute Engine
 - Protocol: HTTP
 - Port: 8080
 - Request path: /health
 - Check interval: 10 seconds
 - Unhealthy threshold: 3 consecutive failures
+
 ## Create stream collector instance group
 - In "Instance template", select the template you created
 - In "Health check", select the health check you created
 - Click "Create"
+
 ## Create a load balancer
 - In "Network services", create a load balancer
 - Select "HTTP(S) Load Balancing"

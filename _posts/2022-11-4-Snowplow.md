@@ -46,6 +46,7 @@ Store them all in cloud storage, for you'll need them later.
 - Expand "Advance options"
 - Expand "Management"
 - Under "Automation", fill in the script below:
+
     #! /bin/bash
     sudo apt-get update
     sudo apt-get -y install default-jre
@@ -54,6 +55,7 @@ Store them all in cloud storage, for you'll need them later.
     wget "https://github.com/snowplow/stream-collector/releases/download/2.8.2/snowplow-stream-collector-google-pubsub-2.8.2.jar"
     gsutil cp gs://your-bucket/your-stream-collector-config .
     java -jar snowplow-stream-collector-google-pubsub-2.8.2.jar --config your-stream-collector-config
+
 - Expand "Networking"
 - In "Network tags", add `collector`
 - Click "Create"

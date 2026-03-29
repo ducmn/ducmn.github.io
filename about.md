@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Classical liberal.
+I'm Duc Nguyen — a Vietnamese living in London, working in tech.
 
-This is my personal blog with my personal thoughts and does not represent the views of any organisations that I am or have been involved with.
+I write about politics, society, and whatever I happen to be thinking about. Views are my own.

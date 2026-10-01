@@ -3,31 +3,40 @@ layout: page
 title: "Review: Do Not Say We Have Nothing"
 ---
 
-Madeleine Thien's *Do Not Say We Have Nothing* is okay. Not even that good.
+Madeleine Thien's *Do Not Say We Have Nothing* won basically every Canadian prize going in 2016 and made the Booker shortlist. It's about three generations of Chinese musicians getting ground up by land reform, the Cultural Revolution and Tiananmen. It's fine. I think the reasons it's only fine are more interesting than the book itself.
 
-The subject matter is excellent: three generations of musicians in China, from the land reform through the Cultural Revolution to Tiananmen in 1989. The contradictions are all there to be mined. These are people who believed in the revolution, served it, and were broken by it, and the music they loved was both their escape and their evidence. A better novel would dig into that. This one mostly tells the story everyone already knows and tries to bring it to life.
+**I.**
 
-I think it won its awards (the Giller, the Governor General's, a Booker shortlist) partly because of when it came out. 2016 was the peak of the woke era, and it sits on the shelf next to *The Sympathizer*, which took the Pulitzer the same year. Both are diaspora novels about a Communist country, written for a Western audience that wanted to be told about it. Her name has gone a lot quieter since, and I don't think that's an accident. This style of book wins prizes, but it doesn't have staying power.
+Thien has clearly noticed that her subject is full of contradictions: people who loved the revolution and were destroyed by it, music that is both a private refuge and evidence against you. Good instinct. Then she applies it to every sentence. The music is loud and quiet. It's sad and joyful. The sun is shining but cold. Somewhere there must be a workshop rule that every image should contain its own negation, and nobody told her the rule has diminishing returns. Two characters kill themselves in this book. By the end I understood them.
 
-The problems:
-- **It's the biggest MFA novel ever written.** Allusions everywhere, Bach and Prokofiev and the *Book of Records*, every paragraph trying to be artistic. You can feel the workshop.
-- **It's over-researched.** The history is so thick that it crowds out the people. It reads like the author couldn't bear to cut a single note card.
-- **The children don't sound like children.** Marie is ten years old for a good part of the book and has impossibly delicate opinions about grief, music and memory. No ten-year-old talks like that.
-- **The characters act irrationally.** People make choices that serve the plot or the theme rather than themselves, and you're never sure whether the narrator is telling you the truth.
-- **Two suicides.** For a book this long, death becomes the default way to end a character's arc. It stops feeling tragic and starts feeling like a device.
-- **Everything is both one thing and its opposite.** The music is both loud and quiet. It is both sad and joyful. The sun is both shining and cold. It's one literary trick, and it's repeated until it means nothing. If I had to read one more of these sentences I'd have joined the two characters above.
-- **The ending drags.** It keeps going long after the story is over.
-- **The characters feel like Westerners in costume.** You can see the revisions. They have the sensibilities of a Western reader, dropped into the middle of China in 1989. The queer storylines in particular feel added to fit 2016 rather than to fit the period.
-- **Wen the Dreamer is a cop out.** He is the most annoying character in the book.
+**II.**
 
-But what annoys me most is how hard the book works to please a Western reader. There are no footnotes and no glossary. Every bit of background a Westerner might need gets pushed into the characters' mouths, so people explain their own history to each other in dialogue. And the nicknames are put into English so the reader can keep track: Sparrow, Big Mother Knife, Swirl, Wen the Dreamer. The result is a cast of very Chinese people speaking polished MFA prose under names that sound ridiculous in English. It's a cop out. Jokes and references like these should be built into the text, not spelled out.
+The bigger problem is that nobody is the bad guy. Everyone is a victim. Sparrow is a victim, Zhuli is a victim, Kai is a victim, their parents are victims, and the generation before them were victims of the Japanese, the British and the civil war. But the Cultural Revolution wasn't done to China by aliens. Somebody wrote the denunciations and somebody held the belts, and a lot of those somebodies got denounced themselves a year later.
 
-Yan Lianke's *The Explosion Chronicles* does this much better. It keeps the names in Chinese and lets the jokes stay Chinese, and it trusts the reader to keep up. Its opening even reads like a dig at books that anglicise their characters for foreign readers. Plenty of reviewers complain that Chinese names are hard to follow, but I didn't find that at all. Vietnam is close enough a cousin to China that the names feel familiar. I suspect most readers would cope fine if the author gave them the chance.
+The novel never goes inside one of those heads. The character I wanted was someone like Xi Jinping: father purged, sent down to live in a cave in Shaanxi as a teenager, applies to join the Party something like ten times, gets rejected, keeps applying, and ends up redder than red. That's the real puzzle of the era, why suffering under the system so often made people more loyal to it, and a novel where everyone is a victim can't write that person.
 
-Then there's what the book leaves out. China appears only as a victim: of the Japanese occupation, of the British and the other foreign powers, of its own civil war, and finally of its own Party. That suffering is real. But China also made other people suffer, and the book never mentions it. Vietnam doesn't appear at all, even though China invaded us in 1979, right in the middle of the period the novel covers. Writing a three-generation history of modern China with only half the ledger is a choice, and it's an easy one for a Western audience that will never notice the gap.
+The flip side is Sparrow. He spends most of the book fragile, making his choices out of fear, and then near the end he turns into a hero, apparently because love does that. But the people who actually survived those decades mostly did it through small cowardices and compromises. That's the interesting story, and the book flinches from it by redeeming its cowards at the last minute.
 
-The book also hasn't aged into anything. Nearly every review of it is from ten years ago, and nobody seems to be talking about it now.
+The same blind spot points outward. China in this book is only ever on the receiving end. Vietnam doesn't appear at all, which is a bit rich from where I'm sitting, since China invaded us in 1979, well inside the novel's timeline. And it's not as if the characters are far away. A big chunk of the book happens in Guangdong, Shenzhen and Hong Kong, right next door. By 1989 Hong Kong was holding tens of thousands of Vietnamese boat people in camps, and southern China had taken in a couple of hundred thousand ethnic Chinese expelled from Vietnam. You'd have to work quite hard to live there in those years and never once think about Vietnam.
 
-Compare it with Rohinton Mistry's *A Fine Balance*, about ordinary people living through Indira Gandhi's Emergency. It's also well researched, but the research stays in the background. The characters are lovable, Mistry gives them room to grow, and every choice they make feels like one a real person would make. It's grim too, but you believe it.
+**III.**
 
-Read *A Fine Balance* instead.
+My cynical theory is that the book was optimised for a Western reader in 2016, and you can see the optimisation everywhere. There are no footnotes, so the background gets delivered by characters explaining their own history to each other. The nicknames are translated so you can keep track (Sparrow, Big Mother Knife, Swirl, Wen the Dreamer), so you get people in 1960s Shanghai speaking immaculate MFA prose under names from a children's cartoon. Their sensibilities, queer subplots included, feel closer to a Vancouver book club than to Beijing in 1989. The ten-year-old has opinions about grief that most forty-year-olds don't.
+
+Compare Yan Lianke's *The Explosion Chronicles*, which keeps the names Chinese, leaves the jokes in Chinese, and assumes you'll cope.
+
+To be fair, one thing Western reviewers complained about is something I think the book gets right. They found the family web hard to follow, and couldn't see why everyone is so attached to cousins, aunts and great-aunts. Speaking as a Vietnamese reader who is close to my own cousins and aunts, that part is completely believable.
+
+**IV.**
+
+Nobody in this book has a real job. Everyone is a composer, a violinist, a writer, a copyist of a mysterious novel. Nobody is an engineer or a soldier or a factory cadre, which is strange for a country that spent those decades doing almost nothing but engineering, soldiering and factory work. Even the narrator in present-day Vancouver is an academic mathematician, which is to say a government-funded intellectual. Then you read the author bio, a list of grants and residencies plus a partner who is also a novelist, and it starts to make sense.
+
+As someone who likes maths, I found the maths parts the hardest to take. It's the kind of maths that exists to be a metaphor: numbers as music, patterns as fate, nothing you could actually check. Compare David Foster Wallace, who really did love the subject and wrote a whole book about infinity. When he writes about maths you can trust it, and it ends up more beautiful precisely because it's real.
+
+There is also, as far as I can remember, no sex in the entire novel. I don't need any, but it's a strange omission in a book whose whole theme is a regime squeezing the life out of people. There were a billion of them. Somebody was having sex.
+
+**V.**
+
+I suspect this is also why the book came and went. It arrived alongside *The Sympathizer* at the peak of a particular moment in prize culture, and nearly every review of it is ten years old. A book built to please one year's jury ages with that year.
+
+If you want this kind of novel done well, read Rohinton Mistry's *A Fine Balance*, about ordinary people under Indira Gandhi's Emergency. It's just as researched and just as grim, but the research stays out of the way, and you believe every choice the characters make.
